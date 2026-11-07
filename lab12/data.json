@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Молоко",
+    "category": "продукты",
+    "amount": 100,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Хлеб",
+    "category": "продукты",
+    "amount": 50,
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Мыло",
+    "category": "бытовое",
+    "amount": 80,
+    "completed": false
+  }
+]
